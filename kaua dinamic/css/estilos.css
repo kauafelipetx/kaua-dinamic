@@ -1,5 +1,5 @@
 :root {
-  --cinza: #aaa;
+  --cinza: hsl(0, 0%, 100%);
   --vermelha: #e93d50;
   --vermelha-escura: #af303f;
   --branca: #fff;
